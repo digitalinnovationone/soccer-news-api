@@ -26,5 +26,12 @@
     "description": "São Paulo divulga numeração do time feminino e tem nova camisa 10; veja lista.",
     "image": "https://digitalinnovationone.github.io/soccer-news-api/images/4.jpg",
     "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/03/04/noticias-spfc-sao-paulo-numeracao-time-feminino-camisa-10-lista.ghtml"
+  },
+  {
+    "id": 5,
+    "title": "Resistente, Sport conquista acesso à Série A2 do Brasileiro Feminino",
+    "description": "Rubro-negras empataram com VF4, da Paraíba, por 2 a 2 neste sábado e conseguiram a classificação pelo placar agregado, após uma vitória por 2 a 0 no duelo de ida",
+    "image": "https://s2.glbimg.com/Iu5GZ1dz0LK_OhRoiBhwWgKsw-A=/0x0:1489x993/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/K/m/IJDwT2SAAFEuBAT7iyOA/fyx296cxkaidxqz.jpg",
+    "link": "https://ge.globo.com/pe/futebol/times/sport/noticia/2022/07/23/sport-conquista-acesso-para-serie-a2-do-brasileiro-feminino.ghtml"
   }
 ]
